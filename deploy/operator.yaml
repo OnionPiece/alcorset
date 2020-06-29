@@ -1,0 +1,31 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: alcorset
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      name: alcorset
+  template:
+    metadata:
+      labels:
+        name: alcorset
+    spec:
+      serviceAccountName: alcorset
+      containers:
+        - name: alcorset
+          # Replace this with the built image name
+          image: local.harbor.io/library/alcorset:v0.0.1
+          command:
+          - alcorset
+          imagePullPolicy: Always
+          env:
+            - name: WATCH_NAMESPACE
+              value: ""
+            - name: POD_NAME
+              valueFrom:
+                fieldRef:
+                  fieldPath: metadata.name
+            - name: OPERATOR_NAME
+              value: "alcorset"

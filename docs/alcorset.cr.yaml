@@ -1,0 +1,32 @@
+apiVersion: alcor.io/v1alpha1
+kind: AlcorSet
+metadata:
+  name: example-alcorset
+spec:
+  replicas: 3
+  onVpc: true
+  hostnamePrefix: "aspod"
+  sequence: true
+  template:
+    metadata:
+      label:
+        app: example-alcorset
+    spec:
+      affinity:
+        podAntiAffinity:
+          requiredDuringSchedulingIgnoredDuringExecution:
+          - topologyKey: kubernetes.io/hostname
+      containers:
+      - command:
+        - "sleep"
+        - "3600"
+        image: local.harbor.io/library/busybox
+        imagePullPolicy: "IfNotPresent"
+        name: busybox
+        readinessProbe:
+          initialDelaySeconds: 3
+          exec:
+            command:
+            - echo
+            - "ok"
+      terminationGracePeriodSeconds: 3

@@ -1,0 +1,7 @@
+apiVersion: alcor.io/v1alpha1
+kind: AlcorSet
+metadata:
+  name: example-alcorset
+spec:
+  # Add fields here
+  size: 3

@@ -1,0 +1,8 @@
+1. with vpcipclaim ... pass
+ > onVpc: true
+2. hostnamePrefix ... pass
+3. sequence creating/deleting ... pass
+ > sequence: true
+
+todo:
+  1. need validation via admission controller
