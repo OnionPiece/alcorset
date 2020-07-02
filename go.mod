@@ -12,7 +12,7 @@ require (
 	golang.org/x/sys v0.0.0-20200622214017-ed371f2e16b4 // indirect
 	google.golang.org/genproto v0.0.0-20200623002339-fbb79eadd5eb // indirect
 	google.golang.org/grpc v1.30.0 // indirect
-	k8s.io/api v0.18.5
+	k8s.io/api v0.0.0
 	k8s.io/apimachinery v0.17.3
 	k8s.io/client-go v12.0.0+incompatible
 	k8s.io/kubernetes v1.16.2
