@@ -549,10 +549,13 @@ github.com/onionpiece/saishang v0.0.0-20200622015946-208d3ffa771b h1:UbQVyQ1OhtP
 github.com/onionpiece/saishang v0.0.0-20200622015946-208d3ffa771b/go.mod h1:cWaiSZfTQ1ZbLtqpVgz4qEtPHxBYTP6wFFAMEFZaujk=
 github.com/onionpiece/vpcapi v0.0.0-20200622014750-413c25bf9482 h1:KYwFVJBtXBCLvwt3ozYjy6cAP74t8Yns3qHHMAjdnqA=
 github.com/onionpiece/vpcapi v0.0.0-20200622014750-413c25bf9482/go.mod h1:b+pqcSTGiYyzSuixoCxZBrVmVxGzH4rTLYhkbmc5fjM=
+github.com/onionpiece/vpcapi v0.0.0-20200623023936-7e5a02c5dd6a/go.mod h1:GRkfVDFCdVo8Y5GlyR5og1kvxYuAojp5/jIimp0zqA0=
 github.com/onionpiece/vpcapi v0.0.0-20200623034015-e1d214ce77a6 h1:hEJXi9zGFEte5TKdUdRhRe8F0+Bl0zX2mnUbzcvdVMI=
 github.com/onionpiece/vpcapi v0.0.0-20200623034015-e1d214ce77a6/go.mod h1:GRkfVDFCdVo8Y5GlyR5og1kvxYuAojp5/jIimp0zqA0=
 github.com/onionpiece/vpcipclaim v0.0.0-20200418094200-019f4ed6f392 h1:pgrNP1ag+FyMNUboNVQmGUadd7NZMswfZD4PjxdvjGw=
 github.com/onionpiece/vpcipclaim v0.0.0-20200418094200-019f4ed6f392/go.mod h1:uQw9ciatCx6naYytPYj/Yoqnxngt8g751lYrJUms/1M=
+github.com/onionpiece/vpcipclaim v0.0.0-20200702052222-73c1a6af29e6 h1:zpiX8ga4r3EpB/l60IsVhmG8BGKuTpuGrYgfRZ/lK5U=
+github.com/onionpiece/vpcipclaim v0.0.0-20200702052222-73c1a6af29e6/go.mod h1:odrEf2wlD5Mxt6u3DhtxbZFgdPes3G0vWz6d+Q2vyZI=
 github.com/onsi/ginkgo v0.0.0-20151202141238-7f8ab55aaf3b/go.mod h1:lLunBs/Ym6LB5Z9jYTR76FiuTmxDTDusOGeTQH+WWjE=
 github.com/onsi/ginkgo v0.0.0-20170829012221-11459a886d9c/go.mod h1:lLunBs/Ym6LB5Z9jYTR76FiuTmxDTDusOGeTQH+WWjE=
 github.com/onsi/ginkgo v1.4.0/go.mod h1:lLunBs/Ym6LB5Z9jYTR76FiuTmxDTDusOGeTQH+WWjE=
