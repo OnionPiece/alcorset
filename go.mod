@@ -6,7 +6,7 @@ require (
 	github.com/onionpiece/ipclaim v0.0.0-20200702051357-a4ce3ad11c11
 	github.com/onionpiece/saishang v0.0.0-20200622015946-208d3ffa771b
 	github.com/onionpiece/vpcapi v0.0.0-20200623034015-e1d214ce77a6
-	github.com/onionpiece/vpcipclaim v0.0.0-20200702052222-73c1a6af29e6
+	github.com/onionpiece/vpcipclaim v0.0.0-20200418094200-019f4ed6f392
 	github.com/operator-framework/operator-sdk v0.15.1
 	github.com/spf13/pflag v1.0.5
 	golang.org/x/sys v0.0.0-20200622214017-ed371f2e16b4 // indirect
