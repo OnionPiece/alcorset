@@ -3,7 +3,7 @@ module github.com/onionpiece/alcorset
 go 1.13
 
 require (
-	github.com/onionpiece/ipclaim v0.0.0-20200702051357-a4ce3ad11c11
+	github.com/onionpiece/ipclaim v0.0.0-20200702050229-4c567bf66894
 	github.com/onionpiece/saishang v0.0.0-20200622015946-208d3ffa771b
 	github.com/onionpiece/vpcapi v0.0.0-20200623034015-e1d214ce77a6
 	github.com/onionpiece/vpcipclaim v0.0.0-20200418094200-019f4ed6f392
@@ -13,7 +13,7 @@ require (
 	google.golang.org/genproto v0.0.0-20200623002339-fbb79eadd5eb // indirect
 	google.golang.org/grpc v1.30.0 // indirect
 	k8s.io/api v0.18.5
-	k8s.io/apimachinery v0.18.5
+	k8s.io/apimachinery v0.17.3
 	k8s.io/client-go v12.0.0+incompatible
 	k8s.io/kubernetes v1.16.2
 	sigs.k8s.io/controller-runtime v0.4.0
