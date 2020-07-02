@@ -3,7 +3,7 @@ module github.com/onionpiece/alcorset
 go 1.13
 
 require (
-	github.com/onionpiece/ipclaim v0.0.0-20200702050229-4c567bf66894
+	github.com/onionpiece/ipclaim v0.0.4
 	github.com/onionpiece/saishang v0.0.0-20200622015946-208d3ffa771b
 	github.com/onionpiece/vpcapi v0.0.0-20200623034015-e1d214ce77a6
 	github.com/onionpiece/vpcipclaim v0.0.0-20200418094200-019f4ed6f392
