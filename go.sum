@@ -539,6 +539,8 @@ github.com/oklog/run v1.0.0/go.mod h1:dlhp/R75TPv97u0XWUtDeV/lRKWPKSdTuV0TZvrmrQ
 github.com/oklog/ulid v1.3.1/go.mod h1:CirwcVhetQ6Lv90oh/F+FBtV6XMibvdAFo93nm5qn4U=
 github.com/onionpiece/ipclaim v0.0.0-20200702050229-4c567bf66894 h1:AMOfkk/Lg2fNHuCD5MDFn70H0nKmZbzq0F9TDdGdCJM=
 github.com/onionpiece/ipclaim v0.0.0-20200702050229-4c567bf66894/go.mod h1:79gFRZUsdIzzNKsa4MqIBC6yvfyYfEmdAiw7g49hIoU=
+github.com/onionpiece/ipclaim v0.0.0-20200702051357-a4ce3ad11c11 h1:ZjK9+5dkjO0mP/UXSbHLRk4RBgai7wVQ9o/W/AmYhsI=
+github.com/onionpiece/ipclaim v0.0.0-20200702051357-a4ce3ad11c11/go.mod h1:eZ1ayohW5V8tIImmjhg7z3GdJe8lPu2CJUrv9Q3G4LE=
 github.com/onionpiece/ipclaim v0.0.4 h1:V5mJgFe7CX8QL2jsl0NNkjWw6f+Tgy3rPzubVhD9Rwo=
 github.com/onionpiece/ipclaim v0.0.4/go.mod h1:5MfVSOBjrzX2+kmk750p9Nok37Z2Nn8VOny4DC5jb6A=
 github.com/onionpiece/saishang v0.0.0-20200330142741-75451d01d13d h1:zXyPh8Tv2nlLPvSWd+c0DYkJQAWkvIBugzEr7AWQAzM=
